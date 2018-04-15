@@ -6,4 +6,4 @@ Shared files are used for non-commercial research purposes.
 
 Macarena Dance was originally retrieved from: https://github.com/erdemgencoglu/Nao-Robot-Project-/blob/master/Nao%20Robot%20Project%20/Dances%20The%20Macarena.crg
 
-Gangnam Style Dance was Originally retrieved from: https://github.com/erdemgencoglu/Nao-Robot-Project-/blob/master/Nao%20Robot%20Project%20/GangamStyle.crg
+Gangnam Style Dance was originally retrieved from: https://github.com/erdemgencoglu/Nao-Robot-Project-/blob/master/Nao%20Robot%20Project%20/GangamStyle.crg
